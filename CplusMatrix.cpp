@@ -28,7 +28,7 @@ public:
     void matrixMultiply(int constant) {
         for (int i = 0; i < v.size(); i++) {
             for (int j = 0; j < v[0].size(); j++) {
-                v[i][j] = v[i][j] * 3;
+                v[i][j] = v[i][j] * constant;
             }
         }
     }
