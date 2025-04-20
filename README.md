@@ -1,5 +1,5 @@
 # hw5_matrix
 AUTHORING: Gavin Innes, UMBC 4/19/2025
 PURPOSE OF SOFTWARE: Matrix libraries in C++
-FILES: 
-BUILD INSTRUCTIONS: 
+FILES: CplusMatrix.cpp (source file), makefile (makefile)
+BUILD INSTRUCTIONS: run "make CplusMatrix"
